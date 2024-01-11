@@ -1,0 +1,27 @@
+.banner-content{
+    padding-top: 300px;
+    padding-left: 3rem;
+    width: 45rem;
+    background: transparent;
+}
+.banner-content h1{
+ font-size: 3.5rem;
+ background: transparent;
+ margin-bottom: 10px;
+}
+.banner-content h2{
+    font-size: 1.5rem;
+    padding-top: 1rem;
+    background: transparent;
+}
+.more{
+    color: white;
+}
+.more:hover{
+    color: black;
+    background-color: white;
+}
+.more:hover i{
+    color: black;
+    background-color: white;
+}
